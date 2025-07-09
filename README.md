@@ -38,6 +38,12 @@ This app provides a simple and effective UI/UX to enhance access to healthcare s
 - Local database for storing user interactions
 
 ---
+## 📸 Sample Output
+
+> ![Sample Output](login.png)
+> ![Sample Output](dashboard.png)
+> ![Sample Output](booking.png)
+
 
 ## 🛠️ Tech Stack
 
@@ -48,5 +54,8 @@ This app provides a simple and effective UI/UX to enhance access to healthcare s
 
 ---
 
-## 🧩 Folder Structure
+## 🙌 Developed By
+Aaliya Khan
+BTech Computer Engineering
+NMIMS MPSTME
 
